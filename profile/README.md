@@ -1,11 +1,6 @@
-![demo](https://github.com/Ecogift/.github/assets/64047882/ff00d062-3e27-4468-841b-5fc0c8c8190f)
-
-
-
-
-
-
 # EcoGift
+
+![demo](https://github.com/Ecogift/.github/assets/64047882/ff00d062-3e27-4468-841b-5fc0c8c8190f)
 
 ## Introduction
 
