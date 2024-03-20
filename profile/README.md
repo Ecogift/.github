@@ -20,3 +20,5 @@ Kernfunktionen
 
 -----------------------
 **Flowchart**
+
+![seq drawio](https://github.com/Ecogift/BACKEND-ECOGIFT/assets/64047882/446db6c9-907a-48ab-9cf4-5a2fe9d90351)
